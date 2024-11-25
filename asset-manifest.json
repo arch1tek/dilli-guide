@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.a10cf99d.css",
-    "main.js": "/react-gh-pages/static/js/main.503eaded.js",
-    "static/js/453.80b32266.chunk.js": "/react-gh-pages/static/js/453.80b32266.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.a10cf99d.css.map": "/react-gh-pages/static/css/main.a10cf99d.css.map",
-    "main.503eaded.js.map": "/react-gh-pages/static/js/main.503eaded.js.map",
-    "453.80b32266.chunk.js.map": "/react-gh-pages/static/js/453.80b32266.chunk.js.map"
+    "main.css": "/dilli-guide/static/css/main.a10cf99d.css",
+    "main.js": "/dilli-guide/static/js/main.ead37020.js",
+    "static/js/453.80b32266.chunk.js": "/dilli-guide/static/js/453.80b32266.chunk.js",
+    "index.html": "/dilli-guide/index.html",
+    "main.a10cf99d.css.map": "/dilli-guide/static/css/main.a10cf99d.css.map",
+    "main.ead37020.js.map": "/dilli-guide/static/js/main.ead37020.js.map",
+    "453.80b32266.chunk.js.map": "/dilli-guide/static/js/453.80b32266.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a10cf99d.css",
-    "static/js/main.503eaded.js"
+    "static/js/main.ead37020.js"
   ]
 }
